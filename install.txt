@@ -1,0 +1,3 @@
+curl -sSL https://your-server.com/install.sh | bash
+
+command to install the script
