@@ -1,0 +1,8 @@
+# python butecoe
+*.pyc
+*.pyo
+__pycache__/
+
+
+# virtual environment
+.venv/
