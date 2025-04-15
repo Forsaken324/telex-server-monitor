@@ -1,0 +1,36 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+
+/* navbar section */
+
+.nav-bar
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px;
+    color: white;
+    background: teal;
+}
+
+
+.navlinks ul
+{
+    display: flex;
+    list-style: none;
+}
+
+.navlinks ul a
+{
+    margin-right: 60px;
+    color: white;
+    text-decoration: none;
+}
+
+
